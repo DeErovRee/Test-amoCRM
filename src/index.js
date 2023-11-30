@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import './normalize.css'
+import './fonts/Inter/Inter-VariableFont_slnt,wght.ttf'
+import './fonts/Montserrat/Montserrat-VariableFont_wght.ttf'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

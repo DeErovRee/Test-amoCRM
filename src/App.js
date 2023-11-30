@@ -1,10 +1,12 @@
 import styled from "styled-components";
 import { Background } from "./components/background";
+import { Header } from "./components/header";
 
 function App() {
   return (
     <AppContainer>
       <Background/>
+      <Header/>
     </AppContainer>
   );
 }
